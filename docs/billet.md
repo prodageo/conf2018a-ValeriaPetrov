@@ -12,7 +12,7 @@
  - Audience : 1 présentateur ; 80 - 100 participants ;
  - Auteur du billet : Valeria PETROV
  - Mots-clés : Interface, UI/UX, formulaire, tableaux de donnees, application.
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+ - URL de l'illustration : ![Codeurs en Seine](CodeursEnSeine.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
