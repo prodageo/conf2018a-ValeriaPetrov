@@ -61,4 +61,15 @@ Ces notions font parties des éléments essentiels de la création d’une appli
 
 
 ## Architecture et facteur qualité
-![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+![UI/UX](UI_UX.png)
+
+Nous pouvons remarquer sur la figure ci-dessus que le concept UI/UX peut être vu comme un système responsable principalement de :
+
+ - L’interaction homme-machine ;
+ - Du design de l’application.
+
+Ce sujet peut influer sur les facteurs suivants :
+
+ - La capacité fonctionnelle - qui a comme but de répondre aux exigences et besoins des utilisateurs ;
+ - La facilité d'utilisation - qui est lié à la compréhension et l'exploitation de l’application web.
+
