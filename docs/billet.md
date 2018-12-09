@@ -9,15 +9,22 @@
  - Durée de la conférence : 40 min
  - Conférencier(s) :
    - Etienne Crombez : [Linkedin](https://fr.linkedin.com/in/etiennecrombez)
- - Audience : 1 présentateur ; 80 - 100 participants ;
+ - Audience : 1 présentateur ; 80 - 100 participants 
  - Auteur du billet : Valeria PETROV
  - Mots-clés : Interface, UI/UX, formulaire, tableaux de donnees, application.
  - URL de l'illustration : ![Codeurs en Seine](CodeursEnSeine.jpg)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
+ - Lien vers le support (diapos) présenté en conférence : [Videos des conférences](https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w/videos)
+ - Nombre de diapos du support : 35
  - Plan du support :
+  - Introduction
+  - Definition de l’UI/UX
+  - Formulaires
+  - Tables
+  - UI
+  - Conclusion
+
 
 ## Résumé
 ...
