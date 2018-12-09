@@ -18,12 +18,12 @@
  - Lien vers le support (diapos) présenté en conférence : [Videos des conférences](https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w/videos)
  - Nombre de diapos du support : 35
  - Plan du support :
-  - Introduction
-  - Definition de l’UI/UX
-  - Formulaires
-  - Tables
-  - UI
-  - Conclusion
+   - Introduction
+   - Definition de l’UI/UX
+   - Formulaires
+   - Tables
+   - UI
+   - Conclusion
 
 
 ## Résumé
