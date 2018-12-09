@@ -27,7 +27,38 @@
 
 
 ## Résumé
-...
+Dans la conception web, nous retrouvons de plus en plus des notions telles que : 
+
+ - UI - interface utilisateur (User Interface) ;
+ - UX - expérience utilisateur (User eXperience).
+ 
+L’interface utilisateur, c’est ce qui fait le lien entre l’humain et la machine. L’UI est le résultat d’un travail plus approfondi, celui de l’expérience utilisateur issue des besoins des internautes. Le but de l’UX est donc d’apporter des solutions efficaces aux problèmes et aux attentes des internautes.
+
+Lors de cette conférence, Etienne Crombez nous a présenté certains conseils UI/UX qui ont comme but d'améliorer la compréhension et de faciliter l'utilisation des interfaces web. 
+
+Les points abordés concernent la conception des :
+ - Formulaires :
+   - La définition des étapes à remplir ; 
+   - Le positionnement des champs ; 
+   - L’importance des valeurs par défaut, des radios, des cases, des butons et des menus roulants ;
+   - La validation du formulaire.
+ - Tables :
+   - Le scroll vertical et horizontale ;
+   - Les colonnes redimensionnables et triables ;
+   - Densité du texte ;
+   - Les graphiques ;
+   - La vue rapide ;
+   - Les filtres de la recherche.
+ - Design :
+   - La lumiere/l’ombre ;
+   - L'arriere plan ;
+   - L’utilisation des couleurs (noir et blanc) ;
+   - L’espacement ;
+   - Le texte et l’image ;
+   - Le choix de la police.
+
+Ces notions font parties des éléments essentiels de la création d’une application web. L'idée principale est de rester simple et de rendre agréable l’interaction de l’utilisateur avec l’application.
+
 
 ## Architecture et facteur qualité
 ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
