@@ -14,7 +14,7 @@
  
  - Conférencier(s) :
    
-   - Etienne Crombez : [Linkedin](https://fr.linkedin.com/in/etiennecrombez)
+   - Etienne Crombez : [Lien Linkedin](https://fr.linkedin.com/in/etiennecrombez)
  
  - Audience : 1 présentateur ; 80 - 100 participants 
  
